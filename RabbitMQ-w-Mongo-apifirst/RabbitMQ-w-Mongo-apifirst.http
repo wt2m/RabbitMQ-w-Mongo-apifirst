@@ -1,0 +1,6 @@
+@RabbitMQ_w_Mongo_apifirst_HostAddress = http://localhost:5268
+
+GET {{RabbitMQ_w_Mongo_apifirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
